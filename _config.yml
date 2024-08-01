@@ -149,6 +149,13 @@ defaults:
       layout: single
       author_profile: true
 
+# Collections
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Reading Files
 include:
   - .htaccess
