@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "YongYong"
+  name             : "Grace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Overcoming hardships"
-  location         : "Somewhere in North America"
+  bio              : "NICU at Samsung Medical Center", "NICU at Mount Sinai Hospital", " ### at St. Joseph Health Centre", "ICU at Toronto General Hospital"
+  location         : "Toronto"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "imyournursetoday@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
