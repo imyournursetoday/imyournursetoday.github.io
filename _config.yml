@@ -115,7 +115,8 @@ analytics:
 author:
   name             : "Grace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ":korea: NICU'|'PICU"
+  bio              : "Korea NICU|PICU"
+  bio              : "Canada NICU|PICU"
   location         : "Toronto"
   email            :
   links:
