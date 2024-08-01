@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "North America Nurse Story"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Registered Nurse"
+title_separator          : "|"
+subtitle                 : Fun Stories in Nursing
 name                     : "imyournursetoday"
 description              : "Fun Stories in Nursing"
 url                      : "https://imyournursetoday.github.io"
@@ -127,7 +127,7 @@ author:
       url: "https://imyournursetoday.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3"
 
 # Site Footer
 footer:
@@ -137,7 +137,7 @@ footer:
       url: "https://imyournursetoday.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3"
 
 
 # Reading Files
