@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "North America Nurse Story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Grace"
+name                     : "imyournursetoday"
 description              : "Fun Stories in Nursing"
 url                      : "https://imyournursetoday.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
