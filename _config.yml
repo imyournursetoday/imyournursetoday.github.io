@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Grace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NICU at Samsung Medical Center", "NICU at Mount Sinai Hospital", " ### at St. Joseph Health Centre", "ICU at Toronto General Hospital"
+  bio              : "ICU at Toronto General Hospital"
   location         : "Toronto"
   email            :
   links:
