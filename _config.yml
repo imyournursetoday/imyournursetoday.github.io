@@ -139,8 +139,15 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3"
 
-
-
+# Pages
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Reading Files
 include:
