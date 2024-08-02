@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Registered Nurse"
+title                    : "Grace's 간호사 이야기"
 title_separator          : "|"
-subtitle                 : Fun Stories in Nursing
+subtitle                 : I'm Your Nurse Today✌️
 name                     : "imyournursetoday"
 description              : "Fun Stories in Nursing"
 url                      : "https://imyournursetoday.github.io"
