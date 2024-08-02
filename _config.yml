@@ -110,11 +110,10 @@ analytics:
     tracking_id          : G-KJXW1TYJ0C
     anonymize_ip         : false
 
-
 # Site Author
 author:
   name             : "Grace"
-  avatar           : "/assets/images/grace_profile.jpg"
+  avatar           : "\assets\images\grace_profile.JPG"
   bio              : "한국/캐나다 간호사"
   location         : "Toronto"
   email            : "imyournursetoday@gmail.com"
