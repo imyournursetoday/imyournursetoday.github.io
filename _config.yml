@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Grace"
-  avatar           : "\assets\images\grace_profile.JPG"
+  avatar           : "/assets/images/grace_profile.JPG"
   bio              : "한국/캐나다 간호사"
   location         : "Toronto"
   email            : "imyournursetoday@gmail.com"
