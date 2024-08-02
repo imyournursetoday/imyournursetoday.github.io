@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Grace"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/grace_profile.jpg"
   bio              : "한국/캐나다 간호사"
   location         : "Toronto"
   email            : "imyournursetoday@gmail.com"
