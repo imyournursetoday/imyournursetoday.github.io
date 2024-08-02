@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Grace's 간호사 이야기"
 title_separator          : "|"
-subtitle                 : I'm Your Nurse Today✌️
+subtitle                 : I'm Your Nurse Today
 name                     : "imyournursetoday"
 description              : "Fun Stories in Nursing"
 url                      : "https://imyournursetoday.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Grace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ":kr: NICU | PICU @ Samsung Medical Center<br/>:canada: NICU|MSICU|PACU|Cystoscopy|CVICU @ Toronto"
+  bio              : "한국 6년, 캐나다 5년 벌써 11년차 간호사의 파란만장한 이야기"
   location         : "Toronto"
   email            : "imyournursetoday@gmail.com"
   links:
