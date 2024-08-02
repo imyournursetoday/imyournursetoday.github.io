@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-home
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -14,10 +14,12 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<div>
+  <img src="\assets\images\background.JPG">
+</div>
+
 <div id="main" role="main">
-  <div>
-    <img src="\assets\images\background.JPG">
-  </div>
+
   {% include sidebar.html %}
 
   <div class="archive">
