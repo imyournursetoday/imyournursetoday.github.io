@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Grace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요. 한국에서 NICU와 PICU를 그리고 현재 캐나다에서 RN으로 NICU, MSICU, PACU를 경험하고 있는 파란만장한 스토리 채널입니다."
+  bio              : "🇨🇦"
   location         : "Toronto"
-  email            :
+  email            : "imyournursetoday@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
