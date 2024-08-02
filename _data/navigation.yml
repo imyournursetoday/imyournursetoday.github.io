@@ -3,6 +3,6 @@ main:
   - title: "Home"
     url: https://imyournursetoday.github.io
   - title: "About"
-    url: #/year-archive/
+    url: \_pages\about.md
   - title: "Post"
     url: #/collection-archive/
