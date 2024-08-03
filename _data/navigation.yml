@@ -5,4 +5,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Post"
-    url: #/collection-archive/
+    url: /_posts/
