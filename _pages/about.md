@@ -4,7 +4,7 @@ permalink: /about/
 layout: about
 ---
 
-#삼성병원 
-$$$Mount Sinai
-adsfSt. Josepha
+삼성병원 
+Mount Sinai
+Josepha
 TGHdf
