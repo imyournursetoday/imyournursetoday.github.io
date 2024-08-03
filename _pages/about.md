@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
+layout: about
 ---
 
 삼성병원 
