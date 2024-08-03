@@ -5,4 +5,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Post"
-    url: #"https://imyournursetoday.github.io/_layouts/home.html"
+    url: /posts/
