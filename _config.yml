@@ -319,8 +319,6 @@ defaults:
       related: true
       show_date: true
 
-# Pages
-defaults:
   # _pages
   - scope:
       path: ""
