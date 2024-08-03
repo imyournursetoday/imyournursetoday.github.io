@@ -4,7 +4,7 @@ permalink: /about/
 layout: about
 ---
 
-#### **Toronto General Hospital (2022 - Current)**
+#### **Toronto General Hospital, Toronto (2022 - Current)**
 - CVICU (Cardiovascular Intensive Care Unit)
 - PACU (Post-Anesthesia Care Unit)
 - Cystoscopy <br/>
