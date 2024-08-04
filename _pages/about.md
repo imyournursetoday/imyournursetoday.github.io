@@ -9,10 +9,10 @@ layout: about
 - PACU (Post-Anesthesia Care Unit)
 - Cystoscopy
 
-**Mount Sinai Hospital, Toronto (2020 - 2022)**
+**Mount Sinai Hospital, Toronto (2020 - 2023)**
 - NICU (Neonatal Intensive Care Unit)
 - MSICU (Medical Surgical Intensive Care Unit)
 
-**Samung Mecial Center, Seoul (2010 - 2016)**
+**Samung Mecial Center, Seoul (2010 - 2017)**
 - NICU (Neonatal Intensive Care Unit)
 - PICU (Pediatric Intensive Care Unit)
