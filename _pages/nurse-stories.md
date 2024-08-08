@@ -1,5 +1,5 @@
 ---
-title: "Nurse Stories"
+title: "Nursing story"
 permalink: /nurse-stories/
 layout: collection
 toc: true
