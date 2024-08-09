@@ -21,7 +21,7 @@ title                    : "Grace의 캐나다 간호사 이야기"
 title_separator          : "|"
 subtitle                 : I'm Your Nurse Today
 name                     : "imyournursetoday"
-description              : "Fun Stories in Nursing"
+description              : "Nursing Story in Canada"
 url                      : "https://imyournursetoday.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
