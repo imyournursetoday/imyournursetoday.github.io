@@ -4,7 +4,5 @@ main:
     url: https://imyournursetoday.github.io
   - title: "About"
     url: /about/
-  - title: "Education"
-    url: /education/
   - title: "Nursing Story"
     url: /nurse-stories/
