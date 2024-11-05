@@ -5,6 +5,12 @@ main:
   - title: "About"
     url: /about/
   - title: "Education"
-    url: /education-ongoing/    
+    sublinks:
+      - title: "Ongoing"
+        url: /education-ongoing/
+      - title: "Completed"
+        url: /education-completed/
+
+
   - title: "Nursing Story"
     url: /nurse-stories/

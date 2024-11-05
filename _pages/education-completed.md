@@ -1,7 +1,7 @@
 ---
 title: "Education"
-permalink: /education-finished/
-taxonomy: Education Finished
+permalink: /education-completed/
+taxonomy: Education Completed
 layout: category
 toc: true
 toc_stiky: true
