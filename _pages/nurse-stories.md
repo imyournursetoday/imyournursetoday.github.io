@@ -1,7 +1,8 @@
 ---
 title: "Nursing Story"
 permalink: /nurse-stories/
-layout: collection
+taxonomy: Nursing Story
+layout: category
 toc: true
 toc_stiky: true
 ---

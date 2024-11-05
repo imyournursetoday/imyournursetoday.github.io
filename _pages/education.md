@@ -1,7 +1,8 @@
 ---
 title: "Education"
 permalink: /education/
-layout: announcement
+taxonomy: Education
+layout: category
 toc: true
 toc_stiky: true
 ---

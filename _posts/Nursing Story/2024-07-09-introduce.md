@@ -1,9 +1,8 @@
 ---
 title: "안녕하세요. 첫 인사 드립니다 😊"
 layout: single
-tags:
-  - Registered Nurse
-  - Canada RN
+categories:
+  - Nursing Story
 ---
 저는 토론토에서 Registered nurse로 일하고 있는 그레이스라고 해요.
 

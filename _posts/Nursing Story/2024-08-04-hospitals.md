@@ -1,9 +1,8 @@
 ---
 title: "토론토에는 어떤 병원들이 있을까요?❓"
 layout: single
-tags:
-  - Registered Nurse
-  - Canada RN
+categories:
+  - Nursing Story
 ---
 많은 사람들이 모여사는 토론토는 다른지역에 비해 종합병원이 많은데요. 30개가 조금 넘는 병원이 토론토와 GTA 지역에 있고 각 병원마다 스페셜티가 달라 병원에서 병원으로 트랜스퍼를 자주 오갑니다.
 

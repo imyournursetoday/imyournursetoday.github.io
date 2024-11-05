@@ -1,9 +1,8 @@
 ---
 title: "캐나다 간호사, 어디까지 일해봤니 Part 1"
 layout: single
-tags:
-  - Registered Nurse
-  - Canada RN
+categories:
+  - Nursing Story
 ---
 NICU
 한국의 NICU 경력을 살려 캐나다 토론토의 마운트 사이나이 NICU에서 첫 캐나다 널싱을 시작했어요.
