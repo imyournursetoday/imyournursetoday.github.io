@@ -1,7 +1,7 @@
 ---
 title: "Education"
-permalink: /education/
-taxonomy: Education
+permalink: /education-ongoing/
+taxonomy: Education Ongoing
 layout: category
 toc: true
 toc_stiky: true
