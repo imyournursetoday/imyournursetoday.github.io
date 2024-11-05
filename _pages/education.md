@@ -1,7 +1,7 @@
 ---
 title: "Education"
 permalink: /education/
-layout: collection
+layout: announcement
 toc: true
 toc_stiky: true
 ---
