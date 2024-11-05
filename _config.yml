@@ -327,3 +327,18 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
+  
+  # _announcement
+  - scope:
+      path: ""
+      type: announcement
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      show_date: true
+
+  
