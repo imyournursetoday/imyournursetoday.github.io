@@ -28,10 +28,10 @@ Head to Toe assessment 건강사정 2차 강의 오픈합니다. 😆
 
 🎁 수강자분들에게 imyournursetoday가 제작한 Head to Toe assessment Templete을 제공해 드립니다. 실제 임상에서 가장 요긴하게 쓰이고 특히 인수인계때 이 templete하나면 게임 끝!
 
-⚠️ 강의의 퀄리티를 위해 소수인원만 모집하는 점 양해부탁드려요.
-⚠️ 교대근무, 상근직 시간을 고려하여 녹화본이 제공됩니다.
+⚠️ 강의의 퀄리티를 위해 소수인원만 모집하는 점 양해부탁드려요.  
+⚠️ 교대근무, 상근직 시간을 고려하여 녹화본이 제공됩니다.  
 ⚠️ 쿠폰적용가능
 
 ▶️ 강의료 문의 및 자리맡으러 가기 🏃🏻‍♀️🏃🏻  
-✉️ @imyournursetoday  
+✉️ [@imyournursetoday](https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3)  
 📧 imyournursetoday@gmail.com
