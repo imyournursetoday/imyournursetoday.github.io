@@ -33,5 +33,5 @@ Head to Toe assessment 건강사정 2차 강의 오픈합니다. 😆
 ⚠️ 쿠폰적용가능
 
 ▶️ 강의료 문의 및 자리맡으러 가기 🏃🏻‍♀️🏃🏻  
-✉️ [@imyournursetoday](https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3)  
+✉️ [인스타그램](https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3)  
 📧 imyournursetoday@gmail.com
