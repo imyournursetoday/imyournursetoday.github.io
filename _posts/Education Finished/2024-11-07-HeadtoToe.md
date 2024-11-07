@@ -1,8 +1,8 @@
 ---
-title: "널싱부트캠프 - Head to Toe Assessment 강의 - 신청서 접수중"
+title: "널싱부트캠프 - Head to Toe Assessment 강의 - 신청 마감"
 layout: single
 categories:
-  - Education Ongoing
+  - Education Completed
 ---
 ![headtotoe1](\pictures\Headtotoe\headtotoe1.png)
 ![headtotoe2](\pictures\Headtotoe\headtotoe2.png)

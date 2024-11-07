@@ -2,26 +2,14 @@
 layout: home
 ---
 
-
-
-
-
-
-저는 토론토에서 Registered nurse로 일하고 있는 그레이스라고 해요.
-
-2010년부터 한국에서 간호사로 일하다가 2018년에 가족들과 함께 캐나다로 이민왔어요. 코네스토가 컬리지에서 certificate 코스를 듣고 2020년 캐나다간호사 면허를 이전했습니다.
-토론토 다운타운의 마운트 사이나이에서 시작해서 현재 Toronto General Hospital CVICU에서 일하고 있어요.
-
-요즘 미국/캐나다/호주 간호사 취업 관련 질문들 많이 받는데요. 쏟아지는 컨텐츠 속 모든게 케바케 사바사인데 어떤게 나랑 잘 맞는지 헷갈리시죠 🤡
-
-❓캐나다간호사가 되려면 대체 어디서부터 시작해야 할까요?  
-❓취직은 쉬운가요? 미국과 비교해서 어떤점이 달라요?  
-❓영어는 어느정도 해야할까요?
-
-제 경험도 나눠드릴게요. 같이 얘기해봐요 🙋🏻‍♀️
-
-- Email: imyournursetoday@gmail.com
-
-제 일상 생활은 인스타그램으로 오시면 구경하실 수 있습니다.
-
-방문해주셔서 감사합니다😉
+![Resume&Interview](\pictures\Resume&Interview\Resume&Interview.jpg)
+![Review](\pictures\Review\Review1.png)
+![Review](\pictures\Review\Review2.png)
+![Review](\pictures\Review\Review3.png)
+![Review](\pictures\Review\Review4.png)
+![Review](\pictures\Review\Review5.png)
+![Review](\pictures\Review\Review6.png)
+![Review](\pictures\Review\Review7.png)  
+  
+✉️ [인스타그램](https://www.instagram.com/imyournursetoday?igsh=MWZhbHptMDVtaWs3)   
+📧 imyournursetoday@gmail.com
