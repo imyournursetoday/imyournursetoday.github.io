@@ -1,5 +1,5 @@
 ---
-title: "널싱부트캠프 - 상황별 쉽게쓰는 간호기록 - 종료"
+title: "널싱부트캠프 - 상황별 쉽게쓰는 간호기록 - 마감"
 layout: single
 categories:
   - Education Completed
